@@ -31,6 +31,8 @@ import math
 #import random
 from onnx import load
 from onnx2pytorch import ConvertModel
+# from onnx2torch import ConvertModel
+
 import gc
  
 if TYPE_CHECKING:
